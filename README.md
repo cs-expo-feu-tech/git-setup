@@ -50,4 +50,4 @@ Check the repository on Github, change the branch to 'hello-members', and see yo
 
 ---
 
-Marc Steven Clemen
+Marc Steven Clemen (Macky)
