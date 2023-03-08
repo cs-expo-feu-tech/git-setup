@@ -65,3 +65,5 @@ Mohammad N. Noor (Moe)
 Franz Millan P. De Vera (Znarf)
 
 Michael Anthony C. Kho (HotchCS)
+
+Angelica Desales (Angge)
