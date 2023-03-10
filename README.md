@@ -67,3 +67,5 @@ Franz Millan P. De Vera (Znarf)
 Michael Anthony C. Kho (HotchCS)
 
 Angelica Desales (Angge)
+
+Eduardo Villanueva (Sorceriv)
